@@ -1,5 +1,5 @@
 # Battle
-A 2D Strategy game with AI control.\n
+A 2D Strategy game with AI control.\
 The assets are from Unity Tank tutorial assets and are modified for game purposes.
 I developed this game for interests and you can download the executable and try it out yourself!
 
