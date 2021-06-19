@@ -20,6 +20,7 @@ Right Shift -- build oil rig
 You need to destroy opponent's commander vehicle to win the battle. In order to do so, you need to maximize your production by building oil rigs and produce different units strategically. The units are controlled by AI and will automatically find the targets based on the priority (opponent units > structures > commander vihecle). Your commander vihecle can regenerate health and you can fight with it but it's more important to produce units. There is also oil in the center of the map where players can try to grab it for income boost. 
 
 ## Demo Video
-The left side (blue) is controlled by me, and the right side (green) is controlled by AI. I guess you can't win the AI if you don't build oil rigs.
+The left side (blue) is controlled by me, and the right side (green) is controlled by AI. \
+I guess you can't win the AI if you don't build oil rigs.\
 [![](https://img.youtube.com/vi/awmhGFqvYqU/0.jpg)](https://www.youtube.com/watch?v=awmhGFqvYqU)
 
